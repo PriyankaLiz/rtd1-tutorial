@@ -29,6 +29,8 @@ parsley You can add it if required for a more flavoursome experience.
 parsley You can add it if required for a more flavoursome experience.
 parsley You can add it if required for a more flavoursome experience.
 
+**You can add it if required for a more flavoursome experience.**
+
 .. autoexception:: lumache.InvalidKindError
 
 For example:
@@ -39,6 +41,7 @@ For example:
 
 .. list-table:: Ingredients
     :header-rows: 1
+    :class: wy-table-responsive
     :align: center
 
     * - Ingredient
