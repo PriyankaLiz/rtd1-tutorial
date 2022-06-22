@@ -24,6 +24,10 @@ The ``kind`` parameter should be either ``"meat"``, ``"fish"``,
 or ``"veggies"``. Otherwise, :py:func:`lumache.get_random_ingredients`
 will raise an exception.
 
+parsley You can add it if required for a more flavoursome experience.
+parsley You can add it if required for a more flavoursome experience.
+parsley You can add it if required for a more flavoursome experience.
+
 .. autoexception:: lumache.InvalidKindError
 
 For example:
